@@ -30,12 +30,13 @@ class MusicLibraryController
         elsif
         input == "list artists"
         list_artists
+        
         elsif
-   input == "list songs"
-        list_songs
+   input == "list genres"
+        list_genres
         elsif
-        input == "list artists"
-        list_artists
+        input == "list artist"
+        list_songs_by_artist
         
         
         
