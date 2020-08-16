@@ -28,7 +28,8 @@ class MusicLibraryController
    input == "list songs"
         list_songs
         elsif
-        
+        input == "list artists"
+        list_artists
     end  #ends If 
   end # ends While 
 end # ends call 
