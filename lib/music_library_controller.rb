@@ -27,6 +27,8 @@ class MusicLibraryController
     elsif
    input == "list songs"
         list_songs
+        elsif
+        
     end  #ends If 
   end # ends While 
 end # ends call 
